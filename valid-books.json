@@ -1,0 +1,62 @@
+[
+  {
+    "Name": "Design Patterns",
+    "Price": 54.99,
+    "Category": "Software Engineering",
+    "Author": "Erich Gamma"
+  },
+  {
+    "Name": "Refactoring",
+    "Price": 47.50,
+    "Category": "Software Engineering",
+    "Author": "Martin Fowler"
+  },
+  {
+    "Name": "Domain-Driven Design",
+    "Price": 59.95,
+    "Category": "Architecture",
+    "Author": "Eric Evans"
+  },
+  {
+    "Name": "Working Effectively with Legacy Code",
+    "Price": 44.00,
+    "Category": "Software Engineering",
+    "Author": "Michael Feathers"
+  },
+  {
+    "Name": "C# in Depth",
+    "Price": 49.99,
+    "Category": "Programming",
+    "Author": "Jon Skeet"
+  },
+  {
+    "Name": "CLR via C#",
+    "Price": 52.00,
+    "Category": "Programming",
+    "Author": "Jeffrey Richter"
+  },
+  {
+    "Name": "Database Internals",
+    "Price": 57.50,
+    "Category": "Databases",
+    "Author": "Alex Petrov"
+  },
+  {
+    "Name": "Designing Data-Intensive Applications",
+    "Price": 58.99,
+    "Category": "Distributed Systems",
+    "Author": "Martin Kleppmann"
+  },
+  {
+    "Name": "Computer Networking: A Top-Down Approach",
+    "Price": 89.00,
+    "Category": "Networking",
+    "Author": "James Kurose"
+  },
+  {
+    "Name": "Operating System Concepts",
+    "Price": 84.50,
+    "Category": "Operating Systems",
+    "Author": "Abraham Silberschatz"
+  }
+]

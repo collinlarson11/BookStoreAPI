@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "",
+    "Price": 0,
+    "Category": "Programming",
+    "Author": "Ada Lovelace"
+  },
+  {
+    "Name": "Clean Architecture",
+    "Price": 42.99,
+    "Category": "Architecture",
+    "Author": "Robert C. Martin"
+  },
+  {
+    "Name": "Algorithms Unlocked",
+    "Price": -15.00,
+    "Category": "Algorithms",
+    "Author": ""
+  }
+]
